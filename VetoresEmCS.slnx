@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CopiaParEImparDeVetor/CopiaParEImparDeVetor.csproj" Id="b6709de1-f2ca-4c6e-be18-87d7fad3687d" />
+  <Project Path="VetorAscii/VetorAscii.csproj" Id="cb202c28-4c19-4b31-9d78-9016c8732948" />
+  <Project Path="VetorDeFibonacci/VetorDeFibonacci.csproj" Id="3374f57b-b804-4a72-b1b3-8d0210e1eab1" />
+  <Project Path="Vetores/Vetores.csproj" Id="989c77b4-fe38-4818-87f1-51238c86f2e8" />
+  <Project Path="VetoresDeTrasPraFrente/VetoresDeTrasPraFrente.csproj" Id="57bfe4d8-d035-4155-8001-713264eddc20" />
+</Solution>
